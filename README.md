@@ -1,7 +1,7 @@
 # ColorMatching
 This is a small series of machine learning Jupyter Notebooks targeted to a 12-15 year old audience. In this series we start with a single pixel containing red, green, and blue color components, and we train a neural network to turn the color of the pixel into color names, step by step.
 
-There is more detail in the [Part0_README.md](Part0_README.md) file.
+There is more detail in the [Part00_Intro.md](Part00_Intro.md) file.
 
 # Using This Repo
 This repo contains Jupyter notebooks, which are interactive pages containing text and Python code you can run and modify. To use a Jupyter notebook you need to run a Python program to create the notebook and open a web page to it.
