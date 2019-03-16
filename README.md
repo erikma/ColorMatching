@@ -17,6 +17,7 @@ To run the Jupyter notebook:
 
 ## Getting started - First Time Setup
 1. Install Git from https://git-scm.com/download/win (for Windows), or https://git-scm.com/download for other operating systems.
+1. Install Python 3.6 or higher from https://www.python.org/downloads/ . Use the 64-bit version.
 1. Open a Windows console: Windows+R (to open the Run box), then type `cmd` and press Enter.
 1. Create a new folder: `mkdir c:\ColorMatching`
 1. Move to that folder: `cd c:\ColorMatching`
