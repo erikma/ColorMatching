@@ -29,3 +29,8 @@ To pull the latest changes from GitHub:
 1. (If you don't already have a console open) Open a Windows console: Windows+R (to open the Run box), then type `cmd` and press Enter.
 1. Change location to that folder: `cd c:\ColorMatching`
 1. Pull down the latest code: `git pull`
+
+# Why Not Google Colab or Microsoft Notebooks?
+As of creation of this repo in March, 2019, Microsoft Notebooks was in a very unstable state, but when it was running correctly it was the best experience.
+
+Google Colab is very smooth and made it easy to add GPU and TPU turbo-charging to the training portions. Only problem was that I could not get the color mixer Display(HTML()) to show the color properly, and that experience is core to the notebook series.
