@@ -13,7 +13,7 @@ To run the Jupyter notebook:
 1. (If you don't already have a console open) Open a Windows console: Windows+R (to open the Run box), then type `cmd` and press Enter.
 1. Change location to that folder: `cd c:\ColorMatching`
 1. Run the command: `jupyter notebook` . A web page should open showing the contents of the folder. You can then click on the various lessons and text files. They are ordered Part00, Part01, etc.
-1. Jupyter notebooks have text sections and code sections. You can scan through them by clicking the Run button at the top. Be patient when running code, however - sometimes it can be slow especially the first time you run something.
+1. Jupyter notebooks have text sections and code "cells." You can scan through the cells by clicking the Run button at the top. Be patient when running code, however - sometimes it can be slow especially the first time you run something. Also, a whole page is like one big Python program, so you need to be sure to run the code at the top first before trying to run code at the bottom.
 
 ## Getting started - First Time Setup
 1. Install Git from https://git-scm.com/download/win (for Windows), or https://git-scm.com/download for other operating systems.
