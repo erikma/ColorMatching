@@ -18,6 +18,7 @@ To run the Jupyter notebook:
 ## Getting started - First Time Setup
 1. Install Git from https://git-scm.com/download/win (for Windows), or https://git-scm.com/download for other operating systems.
 1. Install Python 3.6 (but not 3.7!) from https://www.python.org/downloads/ . Use the 64-bit version.
+   * NOTE: We found that we had to uninstall Python 3.7 since TensorFlow currently needs only 3.6. We're not using python virtual environments or Anaconda in these instructions.
 1. Open a Windows console: Windows+R (to open the Run box), then type `cmd` and press Enter.
 1. Create a new folder: `mkdir c:\ColorMatching`
 1. Move to that folder: `cd c:\ColorMatching`
@@ -34,4 +35,4 @@ To pull the latest changes from GitHub:
 # Why Not Google Colab or Microsoft Notebooks?
 As of creation of this repo in March, 2019, Microsoft Notebooks was in a very unstable state, but when it was running correctly it was the best experience.
 
-Google Colab is very smooth and made it easy to add GPU and TPU turbo-charging to the training portions. Only problem was that I could not get the color mixer Display(HTML()) to show the color properly, and that experience is core to the notebook series.
+Google Colab is very smooth and made it easy to add GPU and TPU turbo-charging to the training portions. Only problem was that I could not get the color mixer `Display(HTML())` to show the color properly, and that experience is core to the notebook series.
