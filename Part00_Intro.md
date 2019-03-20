@@ -1,7 +1,7 @@
 # Introduction to the Series
 This is a multi-part series of Jupyter Notebooks to help you learn about machine learning (ML), sometimes called artificial intelligence. There are many technologies that people use in ML, some going back many years, but in the last ten or so years there has been a massive new interest in one set of technologies, neural networks.
 
-Neural networks are being used to let machines understand parts of language, detect sounds including recognizing human speech, detect and classify objects in pictures and video, and many other things.
+Neural networks are being used to let machines decode parts of language, detect sounds including recognizing human speech, detect and classify objects in pictures and video, and many other things.
 
 However, understanding neural networks is not very easy. If you need to debug your network you might end up deep in the complexities, including linear algebra, types of neural networks, network layering, choice of layers, how big and wide to make each layer, how to connect layers, and so on. We're going to start simple, if not easy, and hide a lot of the complexity away until you're ready to learn more.
 
