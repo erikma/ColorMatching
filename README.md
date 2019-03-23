@@ -18,7 +18,7 @@ To run the Jupyter notebook:
 ## Getting started - First Time Setup
 1. Install Git from https://git-scm.com/download/win (for Windows), or https://git-scm.com/download for other operating systems.
 1. Install Python 3.6 (but not 3.7!) from https://www.python.org/downloads/ . Use the 64-bit version.
-   * NOTE: We found that we had to uninstall Python 3.7 since TensorFlow currently needs only 3.6. We're not using python virtual environments or Anaconda in these instructions.
+   * NOTE: We found that we had to uninstall Python 3.7 since TensorFlow currently needs only 3.6. We're not using Python virtual environments or Anaconda in these instructions.
 1. Open a Windows console: Windows+R (to open the Run box), then type `cmd` and press Enter.
 1. Create a new folder: `mkdir c:\ColorMatching`
 1. Move to that folder: `cd c:\ColorMatching`
